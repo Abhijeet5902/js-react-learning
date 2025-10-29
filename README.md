@@ -1,44 +1,46 @@
-# js-angular-learning
-## 🧠 My Learning Journey in JavaScript & Angular
+## 🧠 My Learning Journey in JavaScript & React
 
 Hi, I'm **Abhijeet Swain**.  
-This repository is a record of my journey learning **JavaScript** and **Angular** — from understanding the basics to exploring real-world concepts step by step.  
-It’s not about finished projects yet, but about **growth and consistency**.
+This repository documents my learning progress in **JavaScript** and **React** — starting from basics and gradually building up to small projects.  
+I haven’t built full projects yet, but this repo shows my consistency and curiosity to learn.
 
+---
 
 ### 💡 What I’ve Learned So Far
 
 | Topic | Key Areas Covered | Level |
 |-------|--------------------|-------|
-| **JavaScript Basics** | Variables, Data types, Operators, Loops, Functions | 🟢 Beginner |
-| **DOM Manipulation** | Selecting elements, Event handling, Dynamic updates | 🟢 Beginner |
-| **ES6 Concepts** | Let/Const, Arrow Functions, Template Strings, Modules | 🟢 Beginner |
-| **Angular Fundamentals** | Components, Modules, Templates, Data Binding | 🟡 Learning Stage |
-| **TypeScript Basics** | Variables, Classes, Interfaces, Typing | 🟢 Beginner |
-| **Version Control (Git & GitHub)** | Basic commands, commits, pushing code | 🟢 Beginner |
+| **JavaScript Basics** | Variables, Data types, Loops, Functions, Arrays | 🟢 Beginner |
+| **DOM Manipulation** | Selecting and modifying elements | 🟢 Beginner |
+| **ES6+ Concepts** | Let/Const, Arrow Functions, Template Strings, Modules | 🟢 Beginner |
+| **React Fundamentals** | Components, Props, JSX, State | 🟡 Learning Stage |
+| **Git & GitHub** | Commits, branching, pushing code | 🟢 Beginner |
 
+---
 
 ### 📚 Where I’m Learning From
 
-- 🎓 **YouTube Channels:** CodeWithHarry, Net Ninja, Academind  
-- 📘 **Documentation:** [MDN Web Docs](https://developer.mozilla.org/), [Angular Docs](https://angular.io/docs)  
-- 💻 **Practice:** Writing small snippets and revising regularly
+- 🎓 **YouTube:** CodeWithHarry, Net Ninja, FreeCodeCamp  
+- 📘 **Docs:** [MDN Web Docs](https://developer.mozilla.org/), [React Docs](https://react.dev/)  
+- 💻 **Practice:** Daily small JS snippets and React experiments  
 
+---
 
 ### 🚀 My Current Focus
+- Understanding React component structure  
+- Learning how **props** and **state** work  
+- Exploring **React Hooks (useState, useEffect)**  
 
-- Deepening my **Angular basics** (components, modules, data binding)  
-- Learning **how to connect Angular with APIs**  
-- Strengthening **JavaScript logic** and problem-solving  
-
+---
 
 ### 🏁 What’s Next
+- Build small apps: Counter, Todo, and Weather app  
+- Learn React Router and API integration  
+- Dive into context and custom hooks  
 
-- Build small projects like a **To-Do App**, **Form Validator**, or **Weather App**  
-- Explore **Angular Services, Routing, and HTTP requests**  
-- Combine **JS + Angular** for interactive apps  
-
+---
 
 ### 🌱 My Learning Mindset
+> “I may not have projects yet, but I’m building a foundation strong enough to create them soon.”
 
-> “I may not have built projects yet, but I’m building consistency — and that’s the foundation of mastery.”
+---
